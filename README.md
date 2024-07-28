@@ -1,2 +1,3 @@
-# crawler-benign
-Crawler for downloading a benign files from filehippo and others
+# benign-crawler
+
+Crawler for downloading benign files from FileHippo and other sources.
